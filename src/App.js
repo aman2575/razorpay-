@@ -10,8 +10,8 @@ function App() {
       alert('please enter amount');
     }else{
       var options = {
-        key:'rzp_test_LvYxWSL0ndCMso',
-        key_secret:'2hzmX6zM6SsX6sxkDm5jyAaY',
+        key:'',
+        key_secret:'',
         amount: amount *100,
         currency:'INR',
         name:"AMAN_ACCOUNT",
